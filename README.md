@@ -1,10 +1,10 @@
 ## 👋 Hi, I’m Gautam Soni!
 
 ## Interests
-Automation, Artificial Intelligence, Machine Learning, Deep Learning, Robotics, Computational Science, and High Performance Computing with GPUs/DPUs
+Machine and Deep Learning, Robotics, and Semiconductors
 
 ## Languages
-Python, Java, R, and Linux Shell
+Python, Java, R, and Bash (Unix Shell)
 
 ## Research
 ### 2021
@@ -17,20 +17,10 @@ Generate a lung cancer stem cell gene expression signature with prognostic value
 pathway enrichment within these signatures @ Broad Institute of MIT and Harvard & Dana-Farber Cancer Institute
 
 ## Courses
-### 2020
-Learn Python Programming Masterclass, Udemy
-### 2021
-Intro to R and Linux, DataCamp
 ### 2022
 Introduction to AI with Python @ Columbia University School of Professional Studies, Pre-College Program
 ### 2023 (Planned)
-Getting Started with Deep Learning, NVIDIA Deep Learning Institute
-
-Fundamentals of Accelerated Computing with CUDA Python, NVIDIA Deep Learning Institute
-
-Introduction to C Programming, edX
-
-Fundamentals of Accelerated Computing with CUDA C/C++, NVIDIA Deep Learning Institute
+Getting Started with Deep Learning, Fundamentals of Accelerated Computing with CUDA Python, and Fundamentals of Accelerated Computing with CUDA C/C++ @ NVIDIA Deep Learning Institute
 
 ## Contact 
 gautamkumarsoni21@gmail.com
