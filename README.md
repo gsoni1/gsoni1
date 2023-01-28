@@ -1,5 +1,3 @@
-## 👋 Hi, I’m Gautam Soni!
-
 ## Interests
 Machine and Deep Learning, Robotics, and Semiconductors
 
