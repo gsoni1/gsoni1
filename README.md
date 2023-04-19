@@ -10,10 +10,6 @@ Analysis of PHF6 Dependent Alternative Splicing in Hematopoietic Stem Cells @ Fe
 
 Applied STAR RNA-seq aligner: www.github.com/alexdobin/STAR 
 
-### 2022 - Present
-Generate a lung cancer stem cell gene expression signature with prognostic value, and mechanistically explore
-pathway enrichment within these signatures @ Broad Institute of MIT and Harvard & Dana-Farber Cancer Institute
-
 ## Courses
 ### 2022
 Introduction to AI with Python @ Columbia University School of Professional Studies, Pre-College Program
