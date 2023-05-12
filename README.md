@@ -1,5 +1,5 @@
 ## Interests
-Machine and Deep Learning, Robotics, and Semiconductors
+Machine and Deep Learning, Fintech, Robotics, and Semiconductors
 
 ## Languages
 Python, Java, R, and Bash
@@ -16,6 +16,6 @@ Introduction to AI with Python @ Columbia University School of Professional Stud
 ### 2023 
 Getting Started with Deep Learning @ NVIDIA Deep Learning Institute
 ## Contact 
-gautamkumarsoni21@gmail.com
-
+gsoni05@outlook.com
+gsoni@vt.edu
 www.linkedin.com/in/gsoni16/
