@@ -17,5 +17,7 @@ Introduction to AI with Python @ Columbia University School of Professional Stud
 Getting Started with Deep Learning @ NVIDIA Deep Learning Institute
 ## Contact 
 gsoni05@outlook.com
+
 gsoni@vt.edu
+
 www.linkedin.com/in/gsoni16/
