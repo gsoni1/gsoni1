@@ -11,10 +11,9 @@ Analysis of PHF6 Dependent Alternative Splicing in Hematopoietic Stem Cells @ Fe
 Applied STAR RNA-seq aligner: www.github.com/alexdobin/STAR 
 
 ## Courses
-### 2022
-Introduction to AI with Python @ Columbia University School of Professional Studies, Pre-College Program
-### 2023 
-Getting Started with Deep Learning @ NVIDIA Deep Learning Institute
+### 2023
+Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics (GTx)
+
 ## Contact 
 gsoni05@outlook.com
 
