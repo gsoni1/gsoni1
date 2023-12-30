@@ -1,5 +1,5 @@
 ## Interests
-Machine and Deep Learning, Fintech, Robotics, and Semiconductors
+Machine and Deep Learning, Finance, Semiconductors
 
 ## Languages
 Python, Java, R, and Bash
@@ -10,9 +10,14 @@ Analysis of PHF6 Dependent Alternative Splicing in Hematopoietic Stem Cells @ Fe
 
 Applied STAR RNA-seq aligner: www.github.com/alexdobin/STAR 
 
+### 2023
+Researching Generative Pre-Trained Transformers in Bioinformatics @ Xuan Lab, Virginia Tech
+
 ## Courses
 ### 2023
-Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics (GTx)
+GTx Introduction to Object-Oriented Programming with Java I: Foundations and Syntax Basics
+
+GTx Introduction to Object-Oriented Programming with Java II: Object-Oriented Programming and Algorithms
 
 ## Contact 
 gsoni05@outlook.com
