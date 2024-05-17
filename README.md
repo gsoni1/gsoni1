@@ -16,12 +16,6 @@ Applied STAR RNA-seq aligner: www.github.com/alexdobin/STAR
 ### 2024
 xxx
 
-## Courses
-### 2024
-Spring 2024 - CS 2114 Software Design and Data Structures
-### 2023
-Fall 2023 - CS 1114 Intro to Software Design
-
 ## Contact 
 gsoni05@outlook.com
 
