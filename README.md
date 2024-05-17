@@ -2,7 +2,7 @@
 Machine and Deep Learning, Finance, Biotech, Semiconductors
 
 ## Languages
-Python, Java, R, and Bash
+Python, Java, R, Kotlin, C, C++
 
 ## Research
 ### 2023
