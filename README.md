@@ -7,11 +7,9 @@
 Python, Java, C, C++
 
 ## Projects
-### 2024
 [GradeDistVis](https://github.com/gsoni1/GradeDistVis), A free tool to help you plan your courses based on grade distribution and other metrics 
 
 ## Research
-### 2023 - Present
 Healthcare NLP @ Xuan Lab, Virginia Tech
 
 ## Contact 
