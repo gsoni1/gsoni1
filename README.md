@@ -4,7 +4,7 @@
 - Applying Machine and Deep Learning to real world problems
 
 ## Languages
-Python, Java, Kotlin, C, C++
+Python, Java, C, C++
 
 ## Projects
 ### 2024
@@ -12,13 +12,7 @@ Python, Java, Kotlin, C, C++
 
 ## Research
 ### 2023 - Present
-LLMs in Healthcare @ Xuan Lab, Virginia Tech
-### 2021 - 2022
-Analysis of PHF6 Dependent Alternative Splicing in Hematopoietic Stem Cells @ Ferrando Lab, Columbia University Institute for Cancer Genetics
-
-Applied STAR RNA-seq aligner: www.github.com/alexdobin/STAR 
-
-
+Healthcare NLP @ Xuan Lab, Virginia Tech
 
 ## Contact 
 gsoni05@outlook.com
