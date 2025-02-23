@@ -5,7 +5,11 @@
 Python, Java, C, C++, SQL
 
 ## Projects
-[GradeDistVis](https://github.com/gsoni1/GradeDistVis), A free tool to help you plan your courses based on grade distribution and other metrics (Python)
+
+
+[GradeDistVis](https://github.com/gsoni1/GradeDistVis), A free tool to help you plan your courses based on grade distribution and other metrics (Python) 
+
+Live App: [https://huggingface.co/spaces/gsoni/GradeDistVis](https://huggingface.co/spaces/gsoni/GradeDistVis) 
 
 [ATCSim](https://github.com/gsoni1/ATCSim), A realistic Air Traffic Control Simulator Desktop Application (Java)
 
