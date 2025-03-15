@@ -2,10 +2,10 @@
 - Building actually useful software
 
 ## Languages
-Python, Java, C, C++, SQL
+Python, Java, C, C++, Swift, SQL
 
 ## Projects
-
+[SwipeLLM](https://github.com/gsoni1/SwipeLLM), A unified app that lets you seamlessly swipe between and use different LLMs on your iPhone — fast, simple, all in one place. (Swift)
 
 [GradeDistVis](https://github.com/gsoni1/GradeDistVis), A free tool to help you plan your courses based on grade distribution and other metrics (Python) 
 
