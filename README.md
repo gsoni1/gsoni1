@@ -1,5 +1,9 @@
 ## Goals
-- Building actually useful software
+Building actually useful software
+
+## Experience
+
+Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App
 
 ## Languages
 Python, Java, C, C++, Swift, SQL, HTML, CSS, JavaScript
