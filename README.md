@@ -3,7 +3,8 @@ Building actually useful software
 
 ## Experience
 
-Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App
+Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App  
+- Shipped [Map View](https://github.com/gsoni1/work-feature-showcase) to millions of users 
 
 ## Languages
 Python, Java, C, C++, Swift, SQL, HTML, CSS, JavaScript
