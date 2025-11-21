@@ -10,6 +10,9 @@ Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App
 Python, Java, C, C++, Swift, SQL, HTML, CSS, JavaScript
 
 ## Projects
+[HitmanHints](https://github.com/gsoni1/HitmanHints), An AI assistant, that gives spoiler-free, step-by-step hints for 1,000+ missions, challenges, and escalations in Hitman. (Python)  
+Live App: https://huggingface.co/spaces/gsoni/HitmanHints
+
 [YouTube Music Pronunciation](https://github.com/gsoni1/YouTube-Music-Pronunciation), A Chrome extension that makes it effortless to view lyrics in english characters directly on YouTube Music — helping you sing along to any song, in any language. (JavaScript)
 
 [taxes.fyi](https://github.com/gsoni1/taxes.fyi), A chrome extension that makes it effortless to view after-tax salary estimates directly on levels.fyi — helping you get a clearer picture of real take-home pay. (JavaScript)
@@ -19,8 +22,6 @@ Python, Java, C, C++, Swift, SQL, HTML, CSS, JavaScript
 [GradeDistVis](https://github.com/gsoni1/GradeDistVis), A free tool to help you plan your courses based on grade distribution and other metrics (Python) 
 
 Live App: [https://huggingface.co/spaces/gsoni/GradeDistVis](https://huggingface.co/spaces/gsoni/GradeDistVis) 
-
-[ATCSim](https://github.com/gsoni1/ATCSim), A realistic Air Traffic Control Simulator Desktop Application (Java)
 
 ## Contact 
 gsoni05@outlook.com
