@@ -2,6 +2,7 @@
 Building actually useful software
 
 ## Experience
+Summer 2026: Incoming SWE Intern @ Microsoft 
 
 Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App  
 - Shipped [Map View](https://github.com/gsoni1/work-feature-showcase) to millions of users 
