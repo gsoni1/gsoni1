@@ -1,6 +1,3 @@
-## Goals
-Building actually useful software
-
 ## Experience
 Summer 2026: SWE Intern @ Microsoft, OneDrive Android App
 - Consumer Monetization Growth
