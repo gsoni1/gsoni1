@@ -1,6 +1,6 @@
 ## Experience
 Summer 2026: SWE Intern @ Microsoft, OneDrive Android App
-- Consumer Monetization Growth
+- Consumer Monetization & Growth
 
 Summer 2025: Explore (PM & SWE) Intern @ Microsoft, OneDrive iOS App  
 - Shipped [Map View](https://github.com/gsoni1/work-feature-showcase) to millions of users 
